@@ -7,7 +7,7 @@ public class Demo4 {
 			int i=10;
 			System.out.println("integer i:"+i);
 			System.out.println("updated");
-			
+			System.out.println("inserted");
 	}
 
 }
