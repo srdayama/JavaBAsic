@@ -6,6 +6,7 @@ public class Demo4 {
 			System.out.println("demo class 4 11111111111111111111 ");
 			int i=10;
 			System.out.println("integer i:"+i);
+			System.out.println("updated");
 			
 	}
 
