@@ -9,6 +9,9 @@ public class Demo {
 		System.out.println("method  2 is created");
 	}
 
+	public static void m3() {
+		System.out.println("method  3 is created");
+	}
 	
 	public static void main(String[] args) {
 		System.out.println("hiiiiiiiii");
